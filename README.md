@@ -2,7 +2,7 @@
 
 **Pomodoro ile büyüyen sanal bahçe.** Her odak oturumu bahçene bir bitki ekler; oturumu yarıda bırakırsan bitki solar. Haftalık istatistiklerle hangi derse ne kadar çalıştığını görürsün.
 
-🔗 **Canlı demo:** _https://BURAYA-NETLIFY-LINKI.netlify.app_ (sunum için: `?demo=1` ekleyerek örnek veriyle açılabilir)
+🔗 **Canlı demo:** https://odak-bahcesi.netlify.app (sunum için: `?demo=1` ekleyerek örnek veriyle açılabilir)
 
 ![Zamanlayıcı ekranı](docs/timer.png)
 
@@ -41,7 +41,7 @@ Harici grafik veya UI kütüphanesi kullanılmadı; grafikler HTML/CSS ile sıf�
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI-ADIN/odak-bahcesi.git
+git clone https://github.com/simsekbeyda/odak-bahcesi.git
 cd odak-bahcesi
 npm install
 npm run dev        # http://localhost:5173
